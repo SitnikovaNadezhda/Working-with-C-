@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hill\\.nuget\\packages\\": {}
+    "C:\\Users\\ххх\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hill\\Desktop\\Examples\\GB_sem1\\GB_sem1.csproj",
+      "projectUniqueName": "C:\\Users\\ххх\\Desktop\\Examples\\GB_sem1\\GB_sem1.csproj",
       "projectName": "GB_sem1",
-      "projectPath": "C:\\Users\\Hill\\Desktop\\Examples\\GB_sem1\\GB_sem1.csproj",
-      "packagesPath": "C:\\Users\\Hill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hill\\Desktop\\Examples\\GB_sem1\\obj\\",
+      "projectPath": "C:\\Users\\ххх\\Desktop\\Examples\\GB_sem1\\GB_sem1.csproj",
+      "packagesPath": "C:\\Users\\ххх\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ххх\\Desktop\\Examples\\GB_sem1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ххх\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
